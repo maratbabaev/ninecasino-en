@@ -1239,4 +1239,7 @@ footer {
     width: 60px;
     aspect-ratio: 60/40;
   }
+  .footer-row div:nth-child(1) {
+    display: none;
+  }
 }/*# sourceMappingURL=styles.css.map */
